@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://casino-oficialnyy-sayt199.github.io/sitemap.xml
